@@ -15,7 +15,7 @@ LeetCode Solutions
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)| [Java](./solutions/Java/courseSchedule/courseSchedule.java)|Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [Java](./solutions/Java/kthSmallestElementInaBST/kthSmallestElementInaBST.java)|Medium|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| [Java](./solutions/Java/productOfArrayExceptSelf/productOfArrayExceptSelf.java)|Medium|
-|628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./solutions/Java/MaximumProductOfThreeNumbers/maximumProductOfThreeNumbers.java)|Easy|
+|628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./solutions/Java/maximumProductOfThreeNumbers/maximumProductOfThreeNumbers.java)|Easy|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Java](./solutions/Java/validPalindromeII/validPalindromeII.java)|Easy|
 |718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray) | [Java](./solutions/Java/maximumLengthOfRepeatedSubarray/maximumLengthOfRepeatedSubarray.java)|Medium|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [Java](./solutions/Java/accountsMerge/accountsMerge.java)|Medium|
