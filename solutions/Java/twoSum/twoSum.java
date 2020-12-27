@@ -1,57 +1,43 @@
-// Source : https://leetcode.com/problems/longest-substring-without-repeating-characters/
+// Source : https://leetcode.com/problems/two-sum/
 
 // Author : Jackwin Hui
 
-// Date : 2020-12-3
+// Date : 2019-10-31
 
 /*
 
-Given a string s, find the length of the longest substring without repeating characters.
-
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+You can return the answer in any order.
  
-
 Example 1:
-
-Input: s = "abcabcbb"
-Output: 3
-Explanation: The answer is "abc", with the length of 3.
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Output: Because nums[0] + nums[1] == 9, we return [0, 1].
 
 Example 2:
-
-Input: s = "bbbbb"
-Output: 1
-Explanation: The answer is "b", with the length of 1.
+Input: nums = [3,2,4], target = 6
+Output: [1,2]
 
 Example 3:
-
-Input: s = "pwwkew"
-Output: 3
-Explanation: The answer is "wke", with the length of 3.
-Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
-
-Example 4:
-
-Input: s = ""
-Output: 0
-
+Input: nums = [3,3], target = 6
+Output: [0,1]
 
 */
 
 class Solution {
-    public int lengthOfLongestSubstring(String s) {
-        int max = 0;
-        int[] cache = new int[256];
-        Arrays.fill(cache,-1);
-        int start = 0;
-        
-        for (int i = 0; i < s.length(); i++) {
-            if(cache[s.charAt(i)] > -1)
-                start = Math.max(start,cache[s.charAt(i)]);
-            cache[s.charAt(i)] = i + 1;
-            max = Math.max(max,i-start+1);
+    public int[] twoSum(int[] nums, int target) {        
+        Map<Integer,Integer> map = new HashMap<Integer,Integer>();
+            
+        for(int i = 0; i < nums.length; i++)
+        {
+            if(map.containsKey(nums[i]))
+                return new int[]{i,map.get(nums[i])};
+            else
+                map.put(target-nums[i],i);
         }
-
-        return max;
-    }    
+        
+        return new int[]{0,0};
+    }
+            
 }
-
