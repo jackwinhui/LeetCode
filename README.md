@@ -40,3 +40,4 @@ LeetCode Solutions
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string) | [Java](./solutions/Java/shuffleString/shuffleString.java)|Easy|
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system) | [Java](./solutions/Java/designParkingSystem/designParkingSystem.java)|Easy|
 |1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | [Java](./solutions/Java/maximumNestingDepthOfTheParantheses/maximumNestingDepthOfTheParantheses.java)|Easy|
+|1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Java](./solutions/Java/richestCustomerWealth/richestCustomerWealth.java)|Easy|
