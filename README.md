@@ -7,6 +7,7 @@ LeetCode Solutions
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./solutions/Java/twoSum/twoSum.java) |Easy|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Java](./solutions/Java/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.java)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [Java](./solutions/Java/longestPalindromicSubstring/longestPalindromicSubstring.java)|Medium|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Java](./solutions/Java/romanToInteger/romanToInteger.java)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [Java](./solutions/Java/addBinary/addBinary.java)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Java](./solutions/Java/bestTimeToBuyAndSellStockII/bestTimeToBuyAndSellStockII.java)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Java](./solutions/Java/validPalindrome/validPalindrome.java) |Easy|
