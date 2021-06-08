@@ -9,6 +9,7 @@ LeetCode Solutions
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)| [Java](./solutions/Java/longestPalindromicSubstring/longestPalindromicSubstring.java)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)| [Java](./solutions/Java/reverseInteger/reverseInteger.java)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)| [Java](./solutions/Java/romanToInteger/romanToInteger.java)|Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)| [Java](./solutions/Java/validParentheses/validParentheses.java)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary)| [Java](./solutions/Java/addBinary/addBinary.java)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)| [Java](./solutions/Java/bestTimeToBuyAndSellStockII/bestTimeToBuyAndSellStockII.java)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)| [Java](./solutions/Java/validPalindrome/validPalindrome.java) |Easy|
