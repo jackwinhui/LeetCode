@@ -14,6 +14,7 @@ LeetCode Solutions
 |67|[Add Binary](https://leetcode.com/problems/add-binary)| [Java](./solutions/Java/addBinary/addBinary.java)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)| [Java](./solutions/Java/bestTimeToBuyAndSellStockII/bestTimeToBuyAndSellStockII.java)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)| [Java](./solutions/Java/validPalindrome/validPalindrome.java) |Easy|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)| [Java](./solutions/Java/linkedListCycle/linkedListCycle.java) |Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)| [Java](./solutions/Java/rotateArray/rotateArray.java)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)| [Java](./solutions/Java/reverseLinkedList/reverseLinkedList.java)|Easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule)| [Java](./solutions/Java/courseSchedule/courseSchedule.java)|Medium|
