@@ -15,6 +15,8 @@ LeetCode Solutions
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)| [Java](./solutions/Java/bestTimeToBuyAndSellStockII/bestTimeToBuyAndSellStockII.java)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)| [Java](./solutions/Java/validPalindrome/validPalindrome.java) |Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)| [Java](./solutions/Java/linkedListCycle/linkedListCycle.java) |Easy|
+|155|[Min Stack](https://leetcode.com/problems/min-stack)| [Java](./solutions/Java/minStack/minStack.java) |Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element)| [Java](./solutions/Java/majorityElement/majorityElement.java) |Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)| [Java](./solutions/Java/rotateArray/rotateArray.java)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)| [Java](./solutions/Java/reverseLinkedList/reverseLinkedList.java)|Easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule)| [Java](./solutions/Java/courseSchedule/courseSchedule.java)|Medium|
