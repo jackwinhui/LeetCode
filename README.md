@@ -18,10 +18,13 @@ LeetCode Solutions
 |155|[Min Stack](https://leetcode.com/problems/min-stack)| [Java](./solutions/Java/minStack/minStack.java) |Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element)| [Java](./solutions/Java/majorityElement/majorityElement.java) |Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)| [Java](./solutions/Java/rotateArray/rotateArray.java)|Medium|
+|202|[Happy Number](https://leetcode.com/problems/happy-number)| [Java](./solutions/Java/happyNumber/happyNumber.java)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes)| [Java](./solutions/Java/countPrimes/countPrimes.java)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)| [Java](./solutions/Java/reverseLinkedList/reverseLinkedList.java)|Easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule)| [Java](./solutions/Java/courseSchedule/courseSchedule.java)|Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)| [Java](./solutions/Java/kthSmallestElementInaBST/kthSmallestElementInaBST.java)|Medium|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)| [Java](./solutions/Java/productOfArrayExceptSelf/productOfArrayExceptSelf.java)|Medium|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)| [Java](./solutions/Java/validAnagram/validAnagram.java)|Easy|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./solutions/Java/maximumProductOfThreeNumbers/maximumProductOfThreeNumbers.java)|Easy|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Java](./solutions/Java/validPalindromeII/validPalindromeII.java)|Easy|
 |718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray) | [Java](./solutions/Java/maximumLengthOfRepeatedSubarray/maximumLengthOfRepeatedSubarray.java)|Medium|
