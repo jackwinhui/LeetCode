@@ -26,6 +26,7 @@ LeetCode Solutions
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)| [Java](./solutions/Java/kthSmallestElementInaBST/kthSmallestElementInaBST.java)|Medium|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)| [Java](./solutions/Java/productOfArrayExceptSelf/productOfArrayExceptSelf.java)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)| [Java](./solutions/Java/validAnagram/validAnagram.java)|Easy|
+|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)| [Java](./solutions/Java/findLargestValueInEachTreeRow/findLargestValueInEachTreeRow.java)|Medium|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./solutions/Java/maximumProductOfThreeNumbers/maximumProductOfThreeNumbers.java)|Easy|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Java](./solutions/Java/validPalindromeII/validPalindromeII.java)|Easy|
 |718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray) | [Java](./solutions/Java/maximumLengthOfRepeatedSubarray/maximumLengthOfRepeatedSubarray.java)|Medium|
@@ -33,7 +34,7 @@ LeetCode Solutions
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [Java](./solutions/Java/jewelsAndStones/jewelsAndStones.java)|Easy|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count) | [Java](./solutions/Java/subdomainVisitCount/subdomainVisitCount.java)|Easy|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [Java](./solutions/Java/rangeSumOfBST/rangeSumOfBST.java)|Easy|
-|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [Java](./solutions/Java/kthClosestPointsToOrigin/kthClosestPointsToOrigin.java)|Medium|
+|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [Java](./solutions/Java/kthClosestPointsToOrigin/kthClosestPointsToOrigin.java)|Mediuma|
 |1027|[Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence) | [Java](./solutions/Java/longestArithmeticSubsequence/longestArithmeticSubsequence.java)|Medium|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [Java](./solutions/Java/defangingAnIPAddress/defangingAnIPAddress.java)|Easy|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | [Java](./solutions/Java/splitAStringInBalancedStrings/splitAStringInBalancedStrings.java)|Easy|
