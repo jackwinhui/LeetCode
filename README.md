@@ -33,6 +33,7 @@ LeetCode Solutions
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [Java](./solutions/Java/jewelsAndStones/jewelsAndStones.java)|Easy|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count) | [Java](./solutions/Java/subdomainVisitCount/subdomainVisitCount.java)|Easy|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [Java](./solutions/Java/rangeSumOfBST/rangeSumOfBST.java)|Easy|
+|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [Java](./solutions/Java/kthClosestPointsToOrigin/kthClosestPointsToOrigin.java)|Medium|
 |1027|[Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence) | [Java](./solutions/Java/longestArithmeticSubsequence/longestArithmeticSubsequence.java)|Medium|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [Java](./solutions/Java/defangingAnIPAddress/defangingAnIPAddress.java)|Easy|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | [Java](./solutions/Java/splitAStringInBalancedStrings/splitAStringInBalancedStrings.java)|Easy|
